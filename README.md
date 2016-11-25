@@ -1,2 +1,0 @@
-# kafkaDoc
-kafkaDoc
