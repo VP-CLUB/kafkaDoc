@@ -48,6 +48,7 @@ kafka:
   image: wurstmeister/kafka
   ports:
     - "9092"
+  restart: always
 #  links:
 #    - zk1
 #    - zk2
